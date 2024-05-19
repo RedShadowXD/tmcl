@@ -13,4 +13,5 @@ Command line tool which can access the TrackMania Web Services with PHP.
 - Player login lookup
 - Solo leaderboard lookup (with parameters $offset & $length!)
 - Multiplayer leaderboard lookup (also with those parameters!)
+
 And a little more!
