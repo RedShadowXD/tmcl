@@ -1,4 +1,4 @@
-https://raw.githubusercontent.com/RedShadowXD/tmcl/main/image-sq.png
+![TMCL Logo](https://raw.githubusercontent.com/RedShadowXD/tmcl/main/image-sq.png)
 # TrackMania Command Ladder (TMCL)
 Command line tool which can access the TrackMania Web Services with PHP.
 
