@@ -50,6 +50,7 @@ switch ($opt) {
 		// Parses the response of "$i_arr_r" into a clean response.
 		echo "\n\n\nThere is currently \x1b[33;1m".$i_reg_trim." \x1b[0mregistered drivers in TMF!\n";
 		
+		// Breaks the god gamer file :(
 		break;
 
 	// If "/p" is chosen...
