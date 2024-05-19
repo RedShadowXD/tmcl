@@ -1,5 +1,5 @@
 <p align="center"
-<img src="https://raw.githubusercontent.com/RedShadowXD/tmcl/main/image-sq.png" width="350" title="cool">
+<img src="https://raw.githubusercontent.com/RedShadowXD/tmcl/main/image-sq.png" width="350" title="cool"></img>
 </p>
 
 # TrackMania Command Ladder (TMCL)
