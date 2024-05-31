@@ -6,7 +6,7 @@
 /** Command line tool which can access the TrackMania Web Services with PHP.
  *
  * Credits
- *  - BigBang112 (https://bigbang1112.cz/) - Wouldn't have gotten access to the API without you
+ *  - BigBang1112 (https://bigbang1112.cz/) - Wouldn't have gotten access to the API without you
  *  - Kripke (https://kripke.club/) - Shared useful code
  *  - fabimaniak - Testing
  * 
